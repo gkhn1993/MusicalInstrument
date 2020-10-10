@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.exe
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.Form1.resources
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.deps.json
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.runtimeconfig.json
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.dll
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\MusicalInstrument.pdb
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.csproj.CopyComplete
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.dll
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.pdb
+C:\Users\ASUS\Desktop\c# projects\MusicalInstrument\MusicalInstrument\obj\Debug\netcoreapp3.1\MusicalInstrument.genruntimeconfig.cache
